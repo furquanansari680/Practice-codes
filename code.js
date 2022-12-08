@@ -1,1 +1,1 @@
-console.log("Hello First Committed code");
+console.log("Hello First Committed coding");
